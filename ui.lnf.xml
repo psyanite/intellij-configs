@@ -1,0 +1,7 @@
+<application>
+  <component name="UISettings">
+    <option name="FONT_FACE" value="Consolas" />
+    <option name="FONT_SIZE" value="9" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+  </component>
+</application>

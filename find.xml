@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <recentFileMasks>
+      <mask>*controller.scala</mask>
+      <mask>*servuce.scala</mask>
+      <mask>*.html</mask>
+      <mask>*.scss</mask>
+      <mask>store*</mask>
+      <mask>*service.scala</mask>
+      <mask>servicespec.scala</mask>
+      <mask>*servicespec.scala</mask>
+      <mask>*dto.scala</mask>
+      <mask>*controller.js</mask>
+      <mask>*generator*</mask>
+      <mask>*spec*</mask>
+      <mask>*spec.scala</mask>
+      <mask>validatorSpec.scala</mask>
+      <mask>*validatorSpec.scala</mask>
+      <mask>*email*</mask>
+      <mask>*controller*</mask>
+      <mask>*main.js</mask>
+      <mask>main.js</mask>
+      <mask>wtmdetails/*</mask>
+      <mask>Router.js</mask>
+      <mask>*.php</mask>
+      <mask>view*.php</mask>
+      <mask>*.java</mask>
+      <mask>*.csv</mask>
+      <mask>*Service.scala</mask>
+      <mask>*.js</mask>
+      <mask>*Spec.scala</mask>
+      <mask>*Specification.scala</mask>
+      <mask>*.scala</mask>
+    </recentFileMasks>
+  </component>
+</application>
