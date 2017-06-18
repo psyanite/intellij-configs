@@ -1,7 +1,10 @@
 <scheme name="Material Theme - Yanified" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="0.9166667" />
   <option name="LINE_SPACING" value="1.6" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
