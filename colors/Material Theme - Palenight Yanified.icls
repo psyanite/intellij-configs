@@ -4,7 +4,7 @@
     <property name="created">2017-06-19T11:33:08</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-19T11:33:33</property>
+    <property name="modified">2017-06-19T14:11:02</property>
     <property name="originalScheme">Material Theme - Palenight copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -80,7 +80,7 @@
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
     <option name="APACHE_CONFIG.ARG_LEXEM">
@@ -1080,6 +1080,16 @@
         <option name="BACKGROUND" value="777777" />
       </value>
     </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff6acd" />
+      </value>
+    </option>
+    <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff6acd" />
+      </value>
+    </option>
     <option name="IVAR">
       <value>
         <option name="FOREGROUND" value="9373a5" />
@@ -1116,10 +1126,21 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JAVA_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="676e95" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c792ea" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_PARENTH">
+      <value>
+        <option name="FOREGROUND" value="89ddf7" />
       </value>
     </option>
     <option name="JAVA_VALID_STRING_ESCAPE">
@@ -1128,6 +1149,11 @@
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ff6acd" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
@@ -2377,6 +2403,11 @@
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value />
     </option>
+    <option name="STATIC_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff6acd" />
+      </value>
+    </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
@@ -2534,7 +2565,7 @@
     </option>
     <option name="Scala Parameter">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="ff6acd" />
       </value>
     </option>
     <option name="Scala Parentheses">
@@ -2569,7 +2600,7 @@
     </option>
     <option name="Scala Template val">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="ff6acd" />
       </value>
     </option>
     <option name="Scala Template var">
