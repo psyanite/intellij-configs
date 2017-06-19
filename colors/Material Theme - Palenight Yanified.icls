@@ -4,7 +4,7 @@
     <property name="created">2017-06-19T11:33:08</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-19T11:33:09</property>
+    <property name="modified">2017-06-19T11:33:33</property>
     <property name="originalScheme">Material Theme - Palenight copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -16,6 +16,7 @@
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
