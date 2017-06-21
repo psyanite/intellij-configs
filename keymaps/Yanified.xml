@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
   <action id="ActivateHierarchyToolWindow" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" second-keystroke="c" />
   </action>
@@ -105,6 +108,9 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
     <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
