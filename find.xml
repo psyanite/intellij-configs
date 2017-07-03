@@ -3,15 +3,8 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*Service.scala" />
     <recentFileMasks>
-      <mask>*controller.scala</mask>
-      <mask>*servuce.scala</mask>
-      <mask>*.html</mask>
-      <mask>*.scss</mask>
-      <mask>store*</mask>
-      <mask>*service.scala</mask>
-      <mask>servicespec.scala</mask>
-      <mask>*servicespec.scala</mask>
       <mask>*dto.scala</mask>
       <mask>*controller.js</mask>
       <mask>*generator*</mask>
@@ -29,11 +22,19 @@
       <mask>view*.php</mask>
       <mask>*.java</mask>
       <mask>*.csv</mask>
-      <mask>*Service.scala</mask>
       <mask>*.js</mask>
       <mask>*Spec.scala</mask>
       <mask>*Specification.scala</mask>
       <mask>*.scala</mask>
+      <mask>*S.scala</mask>
+      <mask>*Ser.scala</mask>
+      <mask>*Service.scala.scala</mask>
+      <mask>*Service.scalascala</mask>
+      <mask>*</mask>
+      <mask>*S</mask>
+      <mask>*Ser</mask>
+      <mask>*Servi</mask>
+      <mask>*Service.scala</mask>
     </recentFileMasks>
   </component>
 </application>
