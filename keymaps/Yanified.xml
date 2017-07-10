@@ -9,7 +9,9 @@
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" second-keystroke="c" />
   </action>
-  <action id="CloseActiveTab" />
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
