@@ -1,7 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="selectedTheme" value="PALENIGHT" />
-    <option name="accentColor" value="3F51B5" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="3f51b5" />
     <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
   </component>
 </application>
