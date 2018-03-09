@@ -1,23 +1,22 @@
 <scheme name="Material Theme - Palenight Yanified" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="2.0" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-06-19T11:33:08</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2018-01-21T13:43:23</property>
+    <property name="modified">2017-11-05T00:10:06</property>
     <property name="originalScheme">Material Theme - Palenight copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="30" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="24" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="26" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />

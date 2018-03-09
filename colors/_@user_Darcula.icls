@@ -1,21 +1,11 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="2.0" />
   <metaInfo>
     <property name="created">2017-12-16T22:38:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2018-03-09T23:55:11</property>
+    <property name="modified">2018-03-09T20:14:58</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="24" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="24" />
-  </font>
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_COPIED" value="c3e88d" />
