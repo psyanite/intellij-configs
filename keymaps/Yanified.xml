@@ -169,6 +169,7 @@
   </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="SurroundWith" />
   <action id="SwitchApply">
