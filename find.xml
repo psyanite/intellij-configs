@@ -1,18 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>*Spec.scala</mask>
-      <mask>*Specification.scala</mask>
-      <mask>*.scala</mask>
-      <mask>*S.scala</mask>
-      <mask>*Ser.scala</mask>
-      <mask>*Service.scala.scala</mask>
-      <mask>*Service.scalascala</mask>
       <mask>*S</mask>
       <mask>*Ser</mask>
       <mask>*Servi</mask>
@@ -36,6 +27,13 @@
       <mask>rSelect.cs</mask>
       <mask>rSelect.csss</mask>
       <mask>rSelect.css</mask>
+      <mask>F</mask>
+      <mask>Fi</mask>
+      <mask>Filter</mask>
+      <mask>Filters</mask>
+      <mask>Filters.</mask>
+      <mask>Filters.cs</mask>
+      <mask>Filters.css</mask>
     </recentFileMasks>
   </component>
 </application>
