@@ -1,22 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>*spec.scala</mask>
-      <mask>validatorSpec.scala</mask>
-      <mask>*validatorSpec.scala</mask>
-      <mask>*email*</mask>
-      <mask>*controller*</mask>
-      <mask>*main.js</mask>
-      <mask>main.js</mask>
-      <mask>wtmdetails/*</mask>
-      <mask>Router.js</mask>
-      <mask>*.php</mask>
-      <mask>view*.php</mask>
-      <mask>*.java</mask>
-      <mask>*.csv</mask>
       <mask>*Spec.scala</mask>
       <mask>*Specification.scala</mask>
       <mask>*.scala</mask>
@@ -34,6 +23,19 @@
       <mask>*.jk</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>r</mask>
+      <mask>rS</mask>
+      <mask>rSe</mask>
+      <mask>rSelec</mask>
+      <mask>rSelect</mask>
+      <mask>rSelect.sc</mask>
+      <mask>rSelect.s</mask>
+      <mask>rSelect.*</mask>
+      <mask>rSelect.</mask>
+      <mask>rSelect.c</mask>
+      <mask>rSelect.cs</mask>
+      <mask>rSelect.csss</mask>
+      <mask>rSelect.css</mask>
     </recentFileMasks>
   </component>
 </application>
