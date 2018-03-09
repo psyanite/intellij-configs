@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.6.1" />
+    <option name="version" value="1.4.1" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="3f51b5" />
