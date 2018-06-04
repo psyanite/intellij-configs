@@ -1,39 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <recentFileMasks>
-      <mask>*S</mask>
-      <mask>*Ser</mask>
-      <mask>*Servi</mask>
-      <mask>*Service.scala</mask>
-      <mask>*</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*.jk</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>r</mask>
-      <mask>rS</mask>
-      <mask>rSe</mask>
-      <mask>rSelec</mask>
-      <mask>rSelect</mask>
-      <mask>rSelect.sc</mask>
-      <mask>rSelect.s</mask>
-      <mask>rSelect.*</mask>
-      <mask>rSelect.</mask>
-      <mask>rSelect.c</mask>
-      <mask>rSelect.cs</mask>
-      <mask>rSelect.csss</mask>
-      <mask>rSelect.css</mask>
-      <mask>F</mask>
-      <mask>Fi</mask>
-      <mask>Filter</mask>
-      <mask>Filters</mask>
-      <mask>Filters.</mask>
-      <mask>Filters.cs</mask>
-      <mask>Filters.css</mask>
-    </recentFileMasks>
   </component>
 </application>
