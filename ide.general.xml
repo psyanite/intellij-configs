@@ -11,6 +11,7 @@
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
     <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="ide.svg.icon" value="true" />
+    <entry key="bigger.font.in.project.view" value="true" />
+    <entry key="SBT.system.in.process" value="true" />
   </component>
 </application>
