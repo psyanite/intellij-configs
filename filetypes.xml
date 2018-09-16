@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="Editable" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
