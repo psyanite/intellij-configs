@@ -18,6 +18,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CompareDirs" />
   <action id="CompareJars" />
   <action id="Console.Jdbc.Close" />
