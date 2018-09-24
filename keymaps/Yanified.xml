@@ -220,7 +220,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
   <action id="tasks.close">
-    <keyboard-shortcut first-keystroke="shift alt w" />
-    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
 </keymap>
