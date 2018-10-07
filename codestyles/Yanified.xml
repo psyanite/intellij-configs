@@ -3,9 +3,6 @@
   <option name="RIGHT_MARGIN" value="140" />
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
-  <DartCodeStyleSettings>
-    <option name="DELEGATE_TO_DARTFMT" value="false" />
-  </DartCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
@@ -45,11 +42,6 @@
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
-  <codeStyleSettings language="Dart">
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="HOCON">
     <option name="SPACE_WITHIN_BRACES" value="true" />
     <indentOptions>
