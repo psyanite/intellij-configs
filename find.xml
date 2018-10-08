@@ -14,5 +14,6 @@
     <mask>*.js</mask>
     <mask>*/services/index.test.js</mask>
     <mask>*Checkpoint.js</mask>
+    <mask>*.test.js</mask>
   </component>
 </application>
