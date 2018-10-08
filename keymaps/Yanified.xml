@@ -10,7 +10,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt h" second-keystroke="c" />
   </action>
   <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -18,10 +18,16 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CompareDirs" />
   <action id="CompareJars" />
   <action id="Console.Jdbc.Close" />
   <action id="Console.TableResult.Reload" />
+  <action id="Dart.DartStyle">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
   <action id="DatabaseView.CopyAction">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
@@ -113,6 +119,9 @@
     <keyboard-shortcut first-keystroke="f3" />
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
@@ -153,16 +162,26 @@
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
   <action id="OverrideMethods" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="Runner.CloseView">
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
@@ -201,9 +220,13 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="Vcs.UpdateProject" />
   <action id="WelcomeScreen.ReopenRecent">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
+  <action id="tasks.close" />
 </keymap>
