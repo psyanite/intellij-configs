@@ -17,5 +17,7 @@
     <mask>*.test.js</mask>
     <mask>Test.kt</mask>
     <mask>*Test.kt</mask>
+    <mask>*servieces.test.js</mask>
+    <mask>*service.test.js</mask>
   </component>
 </application>
