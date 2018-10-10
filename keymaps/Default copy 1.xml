@@ -1,0 +1,5 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+</keymap>
