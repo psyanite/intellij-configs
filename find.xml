@@ -21,5 +21,6 @@
     <mask>*Test.kt</mask>
     <mask>*test.js</mask>
     <mask>*controller.kt</mask>
+    <mask>*service.js</mask>
   </component>
 </application>
