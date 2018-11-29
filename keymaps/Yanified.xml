@@ -120,10 +120,12 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="Git.Commit.And.Push.Executor" />
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="GotoTest" />
+  <action id="Hg.Commit.And.Push.Executor" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -132,6 +134,9 @@
     <keyboard-shortcut first-keystroke="shift escape" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="ctrl q" />
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
