@@ -124,6 +124,7 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
+  <action id="GotoNextError" />
   <action id="GotoTest" />
   <action id="Hg.Commit.And.Push.Executor" />
   <action id="HideActiveWindow">
