@@ -21,13 +21,13 @@
     <option name="ALIGN_COMPOSITE_PATTERN" value="false" />
     <option name="USE_ALTERNATE_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
     <option name="ALIGN_TYPES_IN_MULTILINE_DECLARATIONS" value="true" />
+    <option name="TYPE_ANNOTATION_PUBLIC_MEMBER" value="false" />
   </ScalaCodeStyleSettings>
   <SqlCodeStyleSettings version="0">
     <option name="myVersion" value="0" />
     <option name="ALIAS_CASE" value="4" />
     <option name="TYPE_CASE" value="3" />
     <option name="QUOTE_IDENTIFIER" value="1" />
-    <option name="QUERY_EL_COMMA" value="0" />
     <option name="QUERY_TRUE_INDENT" value="false" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
@@ -52,6 +52,7 @@
     <option name="TABLE_ALTER_INSTRUCTION_ALIGN" value="false" />
     <option name="POST_OPT_WRAP_1" value="true" />
     <option name="POST_OPT_ALIGN" value="false" />
+    <option name="ROUTINE_ARG_COMMA" value="2" />
     <option name="ROUTINE_ARG_ALIGN_TYPES" value="true" />
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
