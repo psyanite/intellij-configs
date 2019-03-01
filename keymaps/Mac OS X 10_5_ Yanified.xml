@@ -27,6 +27,10 @@
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
   <action id="ResizeToolWindowUp" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
