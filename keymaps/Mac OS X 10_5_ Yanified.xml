@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ Yanified" parent="Mac OS X 10.5+">
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
