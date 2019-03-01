@@ -4,7 +4,7 @@
     <property name="created">2018-10-26T09:47:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2018-10-26T15:35:34</property>
+    <property name="modified">2019-03-01T16:04:28</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3503,7 +3503,7 @@
     </option>
     <option name="ScalaDoc comment">
       <value>
-        <option name="FOREGROUND" value="4a4a4a" />
+        <option name="FOREGROUND" value="676e95" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -3515,12 +3515,12 @@
     </option>
     <option name="ScalaDoc html escape sequences">
       <value>
-        <option name="FOREGROUND" value="4a4a4a" />
+        <option name="FOREGROUND" value="676e95" />
       </value>
     </option>
     <option name="ScalaDoc html tag">
       <value>
-        <option name="FOREGROUND" value="4a4a4a" />
+        <option name="FOREGROUND" value="676e95" />
       </value>
     </option>
     <option name="ScalaDoc wiki syntax elements">
