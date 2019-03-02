@@ -2,7 +2,12 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateHierarchyToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="Activatesbt-shell-toolwindowToolWindow" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
@@ -12,6 +17,7 @@
   </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -227,6 +233,7 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
     <keyboard-shortcut first-keystroke="shift ctrl s" />
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="SurroundWith" />
   <action id="SwitchApply">
