@@ -11,6 +11,7 @@
   <action id="Activatesbt-shell-toolwindowToolWindow" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" second-keystroke="c" />
@@ -142,6 +143,7 @@
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
   <action id="Git.Commit.And.Push.Executor" />
   <action id="GotoFile">
