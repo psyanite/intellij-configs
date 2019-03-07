@@ -184,15 +184,6 @@
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="alt kp_up" />
   </action>
-  <action id="MoveStatementDown">
-    <keyboard-shortcut first-keystroke="shift ctrl down" />
-    <keyboard-shortcut first-keystroke="shift ctrl kp_down" />
-    <keyboard-shortcut first-keystroke="alt kp_down" />
-  </action>
-  <action id="MoveStatementUp">
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
-    <keyboard-shortcut first-keystroke="shift ctrl kp_up" />
-  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
     <keyboard-shortcut first-keystroke="ctrl page_down" />
