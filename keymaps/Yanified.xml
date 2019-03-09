@@ -15,6 +15,7 @@
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" second-keystroke="c" />
   </action>
+  <action id="CheckinProject" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl w" />
     <keyboard-shortcut first-keystroke="ctrl alt w" />
@@ -40,6 +41,9 @@
   <action id="CompareJars" />
   <action id="Console.Jdbc.Close" />
   <action id="Console.TableResult.Reload" />
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="Dart.DartStyle">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
