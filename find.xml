@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.dart" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,8 +23,8 @@
     <mask>*controller.kt</mask>
     <mask>*service.js</mask>
     <mask>*queries.js</mask>
-    <mask>*.js</mask>
     <mask>*Queries.js</mask>
     <mask>*.dart</mask>
+    <mask>*.js</mask>
   </component>
 </application>
