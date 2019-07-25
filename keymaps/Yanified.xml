@@ -51,6 +51,8 @@
   </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.UpdatedFiles" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -75,11 +77,9 @@
     <keyboard-shortcut first-keystroke="shift kp_left" />
   </action>
   <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="EditorLineStart">
-    <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="EditorMoveToPageBottom" />
@@ -255,7 +255,5 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
   <action id="context.load" />
-  <action id="tasks.close">
-    <keyboard-shortcut first-keystroke="shift ctrl w" />
-  </action>
+  <action id="tasks.close" />
 </keymap>
