@@ -15,9 +15,7 @@
   <action id="CallHierarchy" />
   <action id="ChangesView.ShelveSilently" />
   <action id="CheckinProject" />
-  <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="shift ctrl w" />
-  </action>
+  <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -148,7 +146,7 @@
   <action id="GotoTest" />
   <action id="Hg.Commit.And.Push.Executor" />
   <action id="HideActiveWindow">
-    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="ctrl m" />
