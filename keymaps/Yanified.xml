@@ -111,6 +111,9 @@
     <keyboard-shortcut first-keystroke="shift up" />
     <keyboard-shortcut first-keystroke="shift kp_up" />
   </action>
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl 9" />
+  </action>
   <action id="ExtractMethod" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl o" />
@@ -179,6 +182,9 @@
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
   <action id="OverrideMethods" />
+  <action id="Play2.TypeInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl 9" />
+  </action>
   <action id="PopupHector" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
@@ -204,6 +210,9 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="Scala.TypeInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl 9" />
   </action>
   <action id="ScrollTreeToCenter" />
   <action id="ShowContent" />
@@ -232,6 +241,7 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="Switcher" />
+  <action id="ToggleBookmark9" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.ShowDiff" />
