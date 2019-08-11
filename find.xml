@@ -25,5 +25,6 @@
     <mask>*.js</mask>
     <mask>*.dart</mask>
     <mask>*Queries.js</mask>
+    <mask>*service.dart</mask>
   </component>
 </application>
