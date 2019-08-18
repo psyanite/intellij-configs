@@ -56,18 +56,12 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="kp_down" />
   </action>
-  <action id="EditorDownWithSelection">
-    <keyboard-shortcut first-keystroke="shift kp_down" />
-  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
     <keyboard-shortcut first-keystroke="kp_left" />
-  </action>
-  <action id="EditorLeftWithSelection">
-    <keyboard-shortcut first-keystroke="shift kp_left" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="alt right" />
@@ -91,10 +85,6 @@
     <keyboard-shortcut first-keystroke="right" />
     <keyboard-shortcut first-keystroke="kp_right" />
   </action>
-  <action id="EditorRightWithSelection">
-    <keyboard-shortcut first-keystroke="shift right" />
-    <keyboard-shortcut first-keystroke="shift kp_right" />
-  </action>
   <action id="EditorScrollDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
     <keyboard-shortcut first-keystroke="ctrl kp_down" />
@@ -112,10 +102,6 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="kp_up" />
-  </action>
-  <action id="EditorUpWithSelection">
-    <keyboard-shortcut first-keystroke="shift up" />
-    <keyboard-shortcut first-keystroke="shift kp_up" />
   </action>
   <action id="ExpressionTypeInfo">
     <keyboard-shortcut first-keystroke="shift ctrl 9" />
