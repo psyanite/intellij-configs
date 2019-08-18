@@ -57,7 +57,6 @@
     <keyboard-shortcut first-keystroke="kp_down" />
   </action>
   <action id="EditorDownWithSelection">
-    <keyboard-shortcut first-keystroke="shift down" />
     <keyboard-shortcut first-keystroke="shift kp_down" />
   </action>
   <action id="EditorDuplicate">
@@ -68,14 +67,21 @@
     <keyboard-shortcut first-keystroke="kp_left" />
   </action>
   <action id="EditorLeftWithSelection">
-    <keyboard-shortcut first-keystroke="shift left" />
     <keyboard-shortcut first-keystroke="shift kp_left" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift home" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
