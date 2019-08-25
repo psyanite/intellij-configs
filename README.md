@@ -1,6 +1,8 @@
 # 🐈 intellj-config
 
-1. Font on Ubuntu - DejaVu Sans Condensed:13
-2. Font on Windows - Segoe UI:12
-3. File -> Settings Repository -> Add https://github.com/psyanite/intellij-config.
-4. Alternatively `Ctrl-Alt-S` (Settings), search for `Settings Repository` for more options
+1. Mac Appearance - `Lucida Grande:11`
+1. Windows Appearance - `Segoe UI:11`
+1. Mac Color Scheme Font / Console Font - `Menlo:12 Linespacing:1.4`
+1. Windows Color Scheme Font / Console Font - `Fira Code:12 Linespacing:1.4`
+1. File -> Settings Repository -> Add https://github.com/psyanite/intellij-config.
+1. Alternatively `Ctrl-Alt-S` (Settings), search for `Settings Repository` for more options
