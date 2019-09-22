@@ -16,9 +16,7 @@
   <action id="ChangesView.ShelveSilently" />
   <action id="CheckinProject" />
   <action id="CloseActiveTab" />
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
+  <action id="CloseContent" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
