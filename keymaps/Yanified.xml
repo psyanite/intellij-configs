@@ -182,7 +182,7 @@
   </action>
   <action id="OverrideMethods" />
   <action id="Play2.TypeInfo">
-    <keyboard-shortcut first-keystroke="shift ctrl l" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="PopupHector" />
   <action id="PreviousTab">
@@ -206,12 +206,13 @@
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="Scala.ShowImplicitArguments" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="Scala.TypeInfo">
-    <keyboard-shortcut first-keystroke="shift ctrl l" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="ScrollTreeToCenter" />
   <action id="SendEOF" />
