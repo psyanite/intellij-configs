@@ -157,6 +157,9 @@
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true" />
+  </JavaCodeStyleSettings>
   <JetCodeStyleSettings>
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
@@ -344,7 +347,6 @@
   <ScalaCodeStyleSettings>
     <option name="ALIGN_COMPOSITE_PATTERN" value="false" />
     <option name="USE_ALTERNATE_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
-    <option name="ALIGN_TYPES_IN_MULTILINE_DECLARATIONS" value="true" />
     <option name="TYPE_ANNOTATION_PUBLIC_MEMBER" value="false" />
   </ScalaCodeStyleSettings>
   <SqlCodeStyleSettings version="0">
@@ -447,7 +449,6 @@
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
-    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
@@ -761,7 +762,6 @@
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
-    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <indentOptions>
