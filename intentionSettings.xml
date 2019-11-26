@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="JavaScript/JSX/Wrap value with {}" />
-    <ignoreAction name="Language Injection/Un-inject Language/Reference" />
-  </component>
-</application>
