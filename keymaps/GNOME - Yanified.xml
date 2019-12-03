@@ -1,4 +1,4 @@
-<keymap version="1" name="Yanified" parent="Default for GNOME">
+<keymap version="1" name="GNOME - Yanified" parent="Default for GNOME">
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
@@ -31,6 +31,7 @@
   <action id="CompareJars" />
   <action id="CompareTwoFiles" />
   <action id="Console.Jdbc.Close" />
+  <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.Reload" />
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -49,7 +50,9 @@
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
-  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="Diff.UpdatedFiles" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -130,6 +133,9 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
   <action id="Git.Commit.And.Push.Executor" />
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="shift ctrl 0" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="shift ctrl o" />
@@ -173,7 +179,6 @@
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextDiff">
-    <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
   <action id="NextTab">
@@ -206,6 +211,7 @@
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="Scala.RunConsole" />
   <action id="Scala.ShowImplicitArguments" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
@@ -242,6 +248,8 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="Switcher" />
+  <action id="TagDocumentationNavigation" />
+  <action id="ToggleBookmark0" />
   <action id="ToggleBookmark9" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
