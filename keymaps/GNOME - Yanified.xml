@@ -254,6 +254,7 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.ShowDiff" />
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.ShowDiffWithLocal">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -270,6 +271,12 @@
   <action id="WelcomeScreen.ReopenRecent">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
   <action id="context.load" />
   <action id="tasks.close" />
