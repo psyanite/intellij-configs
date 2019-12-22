@@ -108,9 +108,6 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="kp_up" />
   </action>
-  <action id="ExpressionTypeInfo">
-    <keyboard-shortcut first-keystroke="shift ctrl l" />
-  </action>
   <action id="ExtractMethod" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
