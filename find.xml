@@ -3,28 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*/services/index.test.js</mask>
-    <mask>*.test.js</mask>
-    <mask>Test.kt</mask>
-    <mask>*servieces.test.js</mask>
-    <mask>*service.test.js</mask>
-    <mask>*Checkpoint.js</mask>
-    <mask>*Test.kt</mask>
-    <mask>*test.js</mask>
-    <mask>*controller.kt</mask>
-    <mask>*service.js</mask>
-    <mask>*queries.js</mask>
-    <mask>*.dart</mask>
-    <mask>*Queries.js</mask>
-    <mask>*service.dart</mask>
-    <mask>*.js</mask>
   </component>
 </application>
