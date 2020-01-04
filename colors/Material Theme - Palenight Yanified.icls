@@ -4,7 +4,7 @@
     <property name="created">2017-06-19T11:33:08</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-11-05T00:10:06</property>
+    <property name="modified">2020-01-04T15:39:37</property>
     <property name="originalScheme">Material Theme - Palenight copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -17,7 +17,6 @@
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -493,7 +492,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="ff6acd" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -561,7 +560,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="be84ff" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
