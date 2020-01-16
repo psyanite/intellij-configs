@@ -187,6 +187,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="PopupHector" />
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
