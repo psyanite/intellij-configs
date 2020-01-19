@@ -2,6 +2,9 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateHierarchyToolWindow" />
   <action id="ActivateTerminalToolWindow">
