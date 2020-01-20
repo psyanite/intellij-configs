@@ -7,6 +7,9 @@
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateHierarchyToolWindow" />
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 4" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 2" />
@@ -136,6 +139,7 @@
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="shift ctrl 0" />
   </action>
+  <action id="GotoBookmark4" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="shift ctrl o" />
@@ -214,6 +218,9 @@
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="Scala.RunConsole" />
   <action id="Scala.ShowImplicitArguments" />
   <action id="Scala.ShowImplicits">
