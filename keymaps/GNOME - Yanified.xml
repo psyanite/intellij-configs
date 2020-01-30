@@ -123,8 +123,7 @@
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="FindNext">
-    <keyboard-shortcut first-keystroke="f3" />
-    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift f3" />
@@ -183,6 +182,9 @@
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
+  <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
   <action id="NextTab">
@@ -278,6 +280,9 @@
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
   <action id="WelcomeScreen.ReopenRecent">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
