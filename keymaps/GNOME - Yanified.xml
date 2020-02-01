@@ -35,7 +35,6 @@
   </action>
   <action id="CompareDirs" />
   <action id="CompareJars" />
-  <action id="CompareTwoFiles" />
   <action id="Console.Jdbc.Close" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.Reload" />
