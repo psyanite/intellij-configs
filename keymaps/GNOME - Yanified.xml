@@ -141,6 +141,7 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="FileChooser.NewFolder" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
@@ -220,6 +221,7 @@
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
   <action id="OverrideMethods" />
+  <action id="ParameterInfo" />
   <action id="Play2.TypeInfo">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
@@ -245,7 +247,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="Rerun">
-    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
   </action>
   <action id="RerunTests" />
   <action id="ResizeToolWindowDown" />
@@ -264,7 +266,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="ScrollPane-scrollEnd">
-    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="ScrollTreeToCenter" />
   <action id="SendEOF" />
