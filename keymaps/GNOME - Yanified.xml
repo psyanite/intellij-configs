@@ -1,4 +1,7 @@
 <keymap version="1" name="GNOME - Yanified" parent="Default for GNOME">
+  <action id="ActivateDartAnalysisToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 8" />
+  </action>
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateHierarchyToolWindow" />
@@ -6,14 +9,16 @@
     <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
   <action id="ActivateProjectToolWindow" />
-  <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl f10" />
-  </action>
+  <action id="ActivateRunToolWindow" />
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
-  <action id="ActivateTerminalToolWindow" />
-  <action id="ActivateVersionControlToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 9" />
+  </action>
   <action id="Activatesbt-shell-toolwindowToolWindow" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl left" />
@@ -64,6 +69,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="Diff.UpdatedFiles" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -120,6 +127,7 @@
   </action>
   <action id="ExtractMethod" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoHome" />
   <action id="FileChooser.NewFile">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -147,7 +155,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl 0" />
   </action>
   <action id="GotoBookmark0" />
+  <action id="GotoBookmark1" />
   <action id="GotoBookmark4" />
+  <action id="GotoBookmark8" />
+  <action id="GotoBookmark9" />
   <action id="GotoClass" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
