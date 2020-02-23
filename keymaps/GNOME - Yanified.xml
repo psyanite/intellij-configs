@@ -2,19 +2,23 @@
   <action id="ActivateDartAnalysisToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 8" />
   </action>
-  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 5" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateHierarchyToolWindow" />
   <action id="ActivateMessagesToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
   <action id="ActivateProjectToolWindow" />
-  <action id="ActivateRunToolWindow" />
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 4" />
+  </action>
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl 1" />
+    <keyboard-shortcut first-keystroke="ctrl 3" />
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 9" />
@@ -42,6 +46,7 @@
   </action>
   <action id="CompareDirs" />
   <action id="CompareJars" />
+  <action id="Compile" />
   <action id="Console.Jdbc.Close" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.Reload" />
@@ -125,9 +130,13 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="kp_up" />
   </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="shift ctrl 8" />
+  </action>
   <action id="ExtractMethod" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoModule" />
   <action id="FileChooser.NewFile">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -142,7 +151,7 @@
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
   <action id="FindPrevious">
-    <keyboard-shortcut first-keystroke="shift f3" />
+    <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
   <action id="Flutter.Toolbar.RestartAction">
     <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
@@ -156,7 +165,9 @@
   </action>
   <action id="GotoBookmark0" />
   <action id="GotoBookmark1" />
+  <action id="GotoBookmark3" />
   <action id="GotoBookmark4" />
+  <action id="GotoBookmark5" />
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
   <action id="GotoClass" />
@@ -219,6 +230,9 @@
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
@@ -252,6 +266,9 @@
   <action id="Scala.TypeInfo">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="ScrollPane-scrollEnd">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="ScrollTreeToCenter" />
   <action id="SendEOF" />
   <action id="ShowContent" />
@@ -262,6 +279,9 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
     <keyboard-shortcut first-keystroke="shift ctrl s" />
     <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
   <action id="SurroundWith" />
   <action id="SwitchApply">
@@ -282,7 +302,9 @@
   <action id="Switcher" />
   <action id="TagDocumentationNavigation" />
   <action id="ToggleBookmark0" />
+  <action id="ToggleBookmark8" />
   <action id="ToggleBookmark9" />
+  <action id="ToggleBookmarkWithMnemonic" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.ShowDiff" />
@@ -306,6 +328,9 @@
   <action id="WelcomeScreen.ReopenRecent">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
+  <action id="XDebugger.NewWatch">
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
