@@ -1,19 +1,19 @@
 <keymap version="1" name="GNOME - Yanified" parent="Default for GNOME">
-  <action id="ActivateDatabaseToolWindow">
-    <keyboard-shortcut first-keystroke="alt 8" />
-  </action>
-  <action id="ActivateDebugToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl 3" />
-  </action>
+  <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateHierarchyToolWindow" />
+  <action id="ActivateMessagesToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+  </action>
+  <action id="ActivateProjectToolWindow" />
   <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl 4" />
+    <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="alt 2" />
-  </action>
+  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateTerminalToolWindow" />
+  <action id="ActivateVersionControlToolWindow" />
   <action id="Activatesbt-shell-toolwindowToolWindow" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl left" />
@@ -21,6 +21,8 @@
   <action id="CallHierarchy" />
   <action id="ChangesView.ShelveSilently" />
   <action id="CheckinProject" />
+  <action id="ChooseDebugConfiguration" />
+  <action id="ChooseRunConfiguration" />
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -50,6 +52,9 @@
   <action id="DatabaseView.ShowDiff" />
   <action id="DatabaseView.SynchronizeAction">
     <keyboard-shortcut first-keystroke="ctrl alt y" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
@@ -115,6 +120,10 @@
   </action>
   <action id="ExtractMethod" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFile">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="FileChooser.NewFolder" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
@@ -137,9 +146,10 @@
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="shift ctrl 0" />
   </action>
+  <action id="GotoBookmark0" />
   <action id="GotoBookmark4" />
+  <action id="GotoClass" />
   <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="GotoLine">
@@ -213,15 +223,15 @@
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="Rerun">
-    <keyboard-shortcut first-keystroke="ctrl f5" />
-    <keyboard-shortcut first-keystroke="ctrl r" />
-    <keyboard-shortcut first-keystroke="ctrl alt r" />
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
   </action>
+  <action id="RerunTests" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="Run">
-    <keyboard-shortcut first-keystroke="f10" />
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
   </action>
+  <action id="RunTargetAction" />
   <action id="Scala.RunConsole" />
   <action id="Scala.ShowImplicitArguments" />
   <action id="Scala.ShowImplicits">
@@ -285,9 +295,6 @@
   <action id="WelcomeScreen.ReopenRecent">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
-  </action>
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
