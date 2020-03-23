@@ -6,12 +6,17 @@
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="Console.Open" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift meta f11" />
+  </action>
   <action id="Diff.NextConflict">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="Diff.PreviousConflict">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="EditBreakpoint" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="ctrl e" />
@@ -67,6 +72,10 @@
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
   <action id="ResizeToolWindowUp" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift meta f10" />
+  </action>
+  <action id="RunTargetAction" />
   <action id="Scala.ShowImplicitArguments" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
@@ -74,6 +83,9 @@
   </action>
   <action id="Scala.TypeInfo">
     <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift meta f8" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -84,4 +96,5 @@
   <action id="VcsShowPrevChangeMarker">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="ViewBreakpoints" />
 </keymap>
