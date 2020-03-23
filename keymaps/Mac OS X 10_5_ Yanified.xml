@@ -1,25 +1,65 @@
 <keymap version="1" name="Mac OS X 10.5+ Yanified" parent="Mac OS X 10.5+">
   <action id="Activatesbt-shell-toolwindowToolWindow" />
   <action id="Back">
-    <keyboard-shortcut first-keystroke="meta open_bracket" />
-    <keyboard-shortcut first-keystroke="meta alt left" />
-    <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="shift meta left" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="Diff.NextConflict">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="Diff.PreviousConflict">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="EditorLineStartWithSelection">
     <keyboard-shortcut first-keystroke="shift home" />
   </action>
+  <action id="ExpressionTypeInfo" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="meta close_bracket" />
-    <keyboard-shortcut first-keystroke="meta alt right" />
-    <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="shift meta right" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="GotoClass" />
+  <action id="NavBar-selectEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="Play2.TypeInfo">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
@@ -27,11 +67,21 @@
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
   <action id="ResizeToolWindowUp" />
+  <action id="Scala.ShowImplicitArguments" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="Scala.TypeInfo">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="meta 1" />
   </action>
 </keymap>
