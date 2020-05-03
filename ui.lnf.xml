@@ -2,4 +2,7 @@
   <component name="DependencyUISettings">
     <option name="SCOPE_TYPE" value="file" />
   </component>
+  <component name="UISettings">
+    <option name="SHOW_STATUS_BAR" value="false" />
+  </component>
 </application>
