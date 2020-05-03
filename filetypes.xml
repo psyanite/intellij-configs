@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="plist" type="PLAIN_TEXT" />
-      <mapping ext="xcconfig" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
