@@ -1,11 +1,11 @@
-<scheme name="_@user_Material Palenight" version="142" parent_scheme="Darcula">
+<scheme name="Material Palenight - Yani" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-10-26T09:47:57</property>
+    <property name="created">2020-05-05T20:16:01</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2020-05-05T20:12:45</property>
-    <property name="originalScheme">Material Palenight</property>
+    <property name="ideVersion">2020.1.1.0.0</property>
+    <property name="modified">2020-05-05T20:26:21</property>
+    <property name="originalScheme">_@user_Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="13" />
@@ -372,7 +372,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="959dcb" />
+        <option name="FOREGROUND" value="b3bbf2" />
       </value>
     </option>
     <option name="CONSOLE_OUTPUT">
@@ -385,7 +385,7 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="959dcb" />
+        <option name="FOREGROUND" value="b3bbf2" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
