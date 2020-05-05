@@ -64,7 +64,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt y" />
   </action>
   <action id="Debug">
-    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
@@ -122,6 +122,7 @@
     <keyboard-shortcut first-keystroke="ctrl kp_up" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="shift alt multiply" />
   </action>
@@ -132,6 +133,9 @@
   </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="shift ctrl 8" />
+  </action>
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="ExtractMethod" />
   <action id="FileChooser.GotoDesktop" />
@@ -157,6 +161,7 @@
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
+  <action id="FindUsages" />
   <action id="Flutter.Toolbar.RestartAction">
     <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
   </action>
@@ -178,6 +183,10 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
@@ -186,6 +195,7 @@
   <action id="Hg.Commit.And.Push.Executor" />
   <action id="HideActiveWindow" />
   <action id="HideAllWindows" />
+  <action id="Images.Editor.ToggleGrid" />
   <action id="Images.ShowThumbnails" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
@@ -254,7 +264,7 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="Run">
-    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="RunTargetAction" />
   <action id="Scala.RunConsole" />
@@ -266,20 +276,19 @@
   <action id="Scala.TypeInfo">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
-  <action id="ScrollPane-scrollEnd">
-    <keyboard-shortcut first-keystroke="ctrl p" />
-  </action>
   <action id="ScrollTreeToCenter" />
   <action id="SendEOF" />
   <action id="ShowContent" />
   <action id="ShowProjectStructureSettings">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
+  <action id="ShowRecentTests" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
     <keyboard-shortcut first-keystroke="shift ctrl s" />
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
+  <action id="ShowUsages" />
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
