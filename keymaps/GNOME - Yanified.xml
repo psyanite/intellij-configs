@@ -184,6 +184,12 @@
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
   <action id="GotoClass" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
