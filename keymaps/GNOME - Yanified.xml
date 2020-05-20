@@ -1,6 +1,6 @@
 <keymap version="1" name="GNOME - Yanified" parent="Default for GNOME">
   <action id="ActivateDartAnalysisToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl 8" />
+    <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 5" />
