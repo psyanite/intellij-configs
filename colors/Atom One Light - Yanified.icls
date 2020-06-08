@@ -1,29 +1,15 @@
-<scheme name="_@user_Atom One Light" version="142" parent_scheme="Default">
+<scheme name="Atom One Light - Yanified" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-11-26T12:07:57</property>
+    <property name="created">2020-06-08T12:45:38</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-06-08T12:47:02</property>
-    <property name="originalScheme">Atom One Light</property>
+    <property name="ideVersion">2020.1.1.0.0</property>
+    <property name="modified">2020-06-08T13:07:06</property>
+    <property name="originalScheme">Atom One Light - Yanifid</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="50a14e" />
     <option name="ANNOTATIONS_COLOR" value="232324" />
@@ -300,12 +286,12 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="2c4ba5" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="2c4ba5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -426,12 +412,12 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="2c4ba5" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="2c4ba5" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -446,7 +432,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="2c4ba5" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -480,7 +466,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="2c4ba5" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -505,12 +491,12 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="252b39" />
+        <option name="FOREGROUND" value="2c4ba5" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="e4564a" />
+        <option name="FOREGROUND" value="e45fa5" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -569,12 +555,12 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="2c4ba5" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="2c4ba5" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -599,12 +585,12 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="2c4ba5" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="e4564a" />
+        <option name="FOREGROUND" value="cf5df8" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -875,7 +861,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="e4564a" />
+        <option name="FOREGROUND" value="e45fa5" />
       </value>
     </option>
     <option name="HTTP_REQUEST_MULTIPART_BOUNDARY" baseAttributes="DEFAULT_DOC_COMMENT_TAG_VALUE" />
@@ -995,7 +981,7 @@
     <option name="Instance property reference ID" baseAttributes="INSTANCE_FIELD_ATTRIBUTES" />
     <option name="JAVA.THIS_SUPER">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="765ef8" />
       </value>
     </option>
     <option name="JFLEX_MACROS_REF">
@@ -1024,13 +1010,13 @@
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="e4564a" />
+        <option name="FOREGROUND" value="e45fa5" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="e4564a" />
+        <option name="FOREGROUND" value="a626a4" />
       </value>
     </option>
     <option name="JS.NULL_UNDEFINED">
@@ -1042,7 +1028,7 @@
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.THIS_SUPER">
       <value>
-        <option name="FOREGROUND" value="e4564a" />
+        <option name="FOREGROUND" value="765ef8" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
@@ -2681,7 +2667,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="2c4ba5" />
         <option name="BACKGROUND" value="fafafa" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
