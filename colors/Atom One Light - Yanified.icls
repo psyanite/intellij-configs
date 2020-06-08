@@ -4,10 +4,10 @@
     <property name="created">2020-06-08T12:45:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-06-08T13:07:06</property>
+    <property name="modified">2020-06-08T13:28:33</property>
     <property name="originalScheme">Atom One Light - Yanifid</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
   <colors>
@@ -273,7 +273,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="2c4ba5" />
       </value>
     </option>
     <option name="CONSOLE_OUTPUT">
@@ -590,7 +590,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="cf5df8" />
+        <option name="FOREGROUND" value="ab5bd1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2146,7 +2146,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="424243" />
+        <option name="FOREGROUND" value="e48123" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">

@@ -287,9 +287,7 @@
   <action id="ScrollTreeToCenter" />
   <action id="SendEOF" />
   <action id="ShowContent" />
-  <action id="ShowProjectStructureSettings">
-    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
-  </action>
+  <action id="ShowProjectStructureSettings" />
   <action id="ShowRecentTests" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
@@ -298,7 +296,7 @@
   </action>
   <action id="ShowUsages" />
   <action id="Stop">
-    <keyboard-shortcut first-keystroke="ctrl alt quote" />
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
   <action id="SurroundWith" />
   <action id="SwitchApply">
