@@ -271,6 +271,9 @@
   <action id="RerunTests" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
