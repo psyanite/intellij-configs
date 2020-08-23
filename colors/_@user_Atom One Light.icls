@@ -4,14 +4,14 @@
     <property name="created">2019-11-26T12:07:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-08-23T14:51:10</property>
+    <property name="modified">2020-08-23T16:21:58</property>
     <property name="originalScheme">Atom One Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <console-font>
@@ -281,7 +281,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="2c4ba5" />
       </value>
     </option>
     <option name="CONSOLE_OUTPUT">
@@ -294,12 +294,12 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="2c4ba5" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="2c4ba5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
