@@ -4,7 +4,7 @@
     <property name="created">2019-11-26T12:07:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-08-23T13:36:31</property>
+    <property name="modified">2020-08-23T14:28:11</property>
     <property name="originalScheme">Atom One Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2790,7 +2790,7 @@
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="e4564a" />
+        <option name="FOREGROUND" value="e45fa5" />
       </value>
     </option>
     <option name="org.rust.UNSAFE_CODE">
