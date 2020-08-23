@@ -291,6 +291,9 @@
   <action id="SendEOF" />
   <action id="ShowBookmarks" />
   <action id="ShowContent" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="ShowProjectStructureSettings" />
   <action id="ShowRecentTests" />
   <action id="ShowSettings">
