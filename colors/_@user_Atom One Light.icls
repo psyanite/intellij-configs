@@ -4,12 +4,12 @@
     <property name="created">2019-11-26T12:07:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-07-12T15:28:01</property>
+    <property name="modified">2020-08-23T12:37:23</property>
     <property name="originalScheme">Atom One Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
