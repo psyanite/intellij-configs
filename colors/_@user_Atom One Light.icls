@@ -4,7 +4,7 @@
     <property name="created">2019-11-26T12:07:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-08-23T12:37:23</property>
+    <property name="modified">2020-08-23T13:36:31</property>
     <property name="originalScheme">Atom One Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -406,6 +406,11 @@
     <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="DART_CONSTRUCTOR">
+      <value>
+        <option name="FOREGROUND" value="c67e00" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="c18401" />
@@ -420,17 +425,17 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="798be3" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="798be3" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="c18401" />
+        <option name="FOREGROUND" value="a64bde" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -440,7 +445,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="798be3" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -474,7 +479,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="798be3" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -504,7 +509,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="e4564a" />
+        <option name="FOREGROUND" value="e45fa5" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -526,7 +531,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="a626a4" />
+        <option name="FOREGROUND" value="6776c8" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -563,12 +568,12 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="3a5bd6" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="798be3" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -593,12 +598,12 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="798be3" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="e4564a" />
+        <option name="FOREGROUND" value="e45fa5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2675,8 +2680,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="383a42" />
-        <option name="BACKGROUND" value="fafafa" />
+        <option name="FOREGROUND" value="2c4ba5" />
+        <option name="BACKGROUND" value="ffffff" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
