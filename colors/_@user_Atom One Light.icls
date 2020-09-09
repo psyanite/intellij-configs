@@ -4,20 +4,14 @@
     <property name="created">2019-11-26T12:07:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-08-23T16:21:58</property>
+    <property name="modified">2020-09-09T18:52:55</property>
     <property name="originalScheme">Atom One Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
+  <option name="CONSOLE_FONT_NAME" value="Fira Code Medium" />
+  <option name="CONSOLE_LINE_SPACING" value="2.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="50a14e" />
     <option name="ANNOTATIONS_COLOR" value="232324" />
