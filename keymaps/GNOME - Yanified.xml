@@ -237,10 +237,7 @@
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl tab" />
-    <keyboard-shortcut first-keystroke="ctrl page_down" />
-  </action>
+  <action id="NextTab" />
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
   <action id="Play2.TypeInfo">
@@ -253,10 +250,7 @@
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift ctrl tab" />
-    <keyboard-shortcut first-keystroke="ctrl page_up" />
-  </action>
+  <action id="PreviousTab" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
