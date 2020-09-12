@@ -11,10 +11,10 @@
     <option name="disabledColor" value="b8b8b9ff" />
     <option name="secondaryBackgroundColor" value="eaeaebff" />
     <option name="buttonColor" value="dbdbdcff" />
-    <option name="selectionForegroundColor" value="25254aff" />
+    <option name="selectionForegroundColor" value="414161ff" />
     <option name="selectionBackgroundColor" value="ffffffff" />
-    <option name="textColor" value="25254aff" />
-    <option name="foregroundColor" value="2c2c37ff" />
+    <option name="textColor" value="414161ff" />
+    <option name="foregroundColor" value="414161ff" />
     <option name="backgroundColor" value="f4f4f4ff" />
   </component>
 </application>

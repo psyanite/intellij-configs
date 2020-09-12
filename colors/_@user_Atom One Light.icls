@@ -4,7 +4,7 @@
     <property name="created">2019-11-26T12:07:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-09-12T16:04:31</property>
+    <property name="modified">2020-09-12T17:30:29</property>
     <property name="originalScheme">Atom One Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -33,6 +33,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_MERGED" value="4078f2" />
     <option name="FILESTATUS_MODIFIED" value="e2c08d" />
+    <option name="FILESTATUS_NOT_CHANGED" value="3d3d57" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
     <option name="FILESTATUS_RENAMED" value="a626a4" />
@@ -402,7 +403,7 @@
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="DART_CONSTRUCTOR">
       <value>
-        <option name="FOREGROUND" value="c67e00" />
+        <option name="FOREGROUND" value="986801" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
@@ -503,7 +504,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="e45fa5" />
+        <option name="FOREGROUND" value="e74b9d" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -525,7 +526,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="6776c8" />
+        <option name="FOREGROUND" value="3147b7" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -597,7 +598,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="e45fa5" />
+        <option name="FOREGROUND" value="e74b9d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
