@@ -248,7 +248,6 @@
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="back_slash" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="QuickJavaDoc">
